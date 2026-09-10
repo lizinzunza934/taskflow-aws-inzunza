@@ -1,0 +1,12 @@
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/integration/AuthControllerTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/integration/FlujoCompletoE2ETest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/integration/InfoControllerTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/integration/SecurityRulesTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/integration/TaskRepositoryPostgresIT.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/integration/TaskflowApiApplicationTests.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/slice/ProjectControllerTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/slice/TaskControllerTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/slice/TaskRepositoryTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/unit/ReportServiceTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/unit/TaskServiceTest.java
+/mnt/c/Users/User/AcademiaExtras/taskflow-api/src/test/java/com/taskflow/unit/TaskValidationTest.java
